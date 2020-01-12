@@ -44,4 +44,4 @@ function toggleDoor(door) {
 }
 
 // Test:
-console.log(getFinalOpenedDoors(121));
+console.log(getFinalOpenedDoors(100));
